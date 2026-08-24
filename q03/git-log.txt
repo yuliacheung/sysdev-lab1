@@ -1,0 +1,6 @@
+*   d5909c2 (HEAD -> main) Merge feature-b: resolved conflict, keep mode=safe and add note=reviewed
+|\  
+| * b153708 (feature-b) feature-b: change mode to fast
+* | 8ed844e (feature-a) feature-a: change mode to safe
+|/  
+* bd6cc35 Initial commit: config.txt with mode=normal
