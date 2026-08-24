@@ -1,0 +1,6 @@
+*   4ce6513 resolve conflict: keep salt
+|\  
+| * 6d4ee51 sweet: more sugar
+* | 5c4992a salty: change to salt
+|/  
+* f2ebb29 initial recipe
