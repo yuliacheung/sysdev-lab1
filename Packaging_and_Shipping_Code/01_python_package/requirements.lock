@@ -1,0 +1,2 @@
+# Editable install with no version control (greet-zhang==0.1.0)
+-e /home/alienare/my_first_package

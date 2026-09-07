@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: greet-zhang
+Version: 0.1.0
+Summary: A simple greeting package
+Author-email: Zhang San <zhangsan@example.com>
+License: MIT
+Description-Content-Type: text/markdown
+
+# Greet Package
+
+A simple Python package that greets users.
+
+## Installation
+
+```bash
+pip install .
+```
+
+## Usage
+
+```bash
+greet --name "Your Name"
+```
