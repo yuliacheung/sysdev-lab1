@@ -1,0 +1,3 @@
+- 提示：空白 name 应退出码 2
+- 改动：在 cli.py 中增加 `if not a.name or a.name.isspace(): sys.exit(2)`
+- 验证：pytest test_cli.py 通过
